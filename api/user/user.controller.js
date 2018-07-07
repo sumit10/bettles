@@ -1,5 +1,5 @@
 var jwt = require('jsonwebtoken');
-var Joi = require('Joi');
+var Joi = require('joi');
 
 exports.loginValidator = {
     body: {
