@@ -1,0 +1,7 @@
+{
+    "mongo":{
+        "host":"mongodb://test:test12345@ds229771.mlab.com:29771/battles"
+    },
+    "jwtSecret":"?Bx_?`DG?<YGKVLtUY8$'Mx5D5p^')r5",
+    "port":3000
+}
